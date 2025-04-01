@@ -1,0 +1,5 @@
+@media(max-width: 375px){
+    .banner .banner_imagem{
+        width: 100%;
+    }
+}

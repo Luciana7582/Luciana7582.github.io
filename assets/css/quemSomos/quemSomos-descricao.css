@@ -1,0 +1,11 @@
+.quem-somos__descricao {
+  color: #595959;
+  font-size: 10px;
+  font-weight: 300;
+}
+
+@media(max-width:375px){
+  .p{
+    font-size: 10px;
+  }
+}

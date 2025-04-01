@@ -1,0 +1,19 @@
+.menu__lista {
+    display: flex;
+    padding-right: 20rem;
+}
+@media (max-width: 320px){
+   
+
+    .receitas .receita  {
+        width: 80%;
+       
+    }
+
+    .banner .banner_image img{
+        width: 100%;
+    }
+
+    
+
+}
